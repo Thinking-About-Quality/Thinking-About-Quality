@@ -25,10 +25,7 @@
     <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- 
-   </div>
-   
-   
+   </div>  
    <p>   <div> 
  
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/paula-sena-b3313120//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
